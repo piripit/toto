@@ -1,0 +1,36 @@
+							support
+
+				projet et gestion de projet:
+
+
+-gant=sert à planifier un projet
+-cout,qualité et délai sont les bases d'un projet
+-notion de ressources est importante
+- relation entre le moa,moe,l'utilisateur,le chef de projet
+-efficacité: etre efficace c'est faire qlq chose de bon, à atteindre les objectifs fixés
+-éfficience:capacité d'une personne 
+-les phases et les étapes d'un projet :
+	*besoin:
+		réflechir sur un plan
+	*lancement:
+		initier et debut
+	*conception:
+		le projet sur la forme partielle et totale
+		
+	*realisation:
+		mise en forme(on etablie le projet) du projet, paramétrage,implémentation,
+	*recette:
+		moyens d'utilisateur sur la livraison
+	*pilote:
+		les testeurs pour verifier la conformité du projet et la validation
+	*déploiement:
+ 		mise en application
+
+METHODE SMART 
+smart= specific mesurable achieverable realistic timely
+METHODE PERT
+avec es graphes 
+le chemin critique est le chemin passé par les taches où la marges=0
+
+
+
